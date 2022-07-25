@@ -1,0 +1,38 @@
+.banner-color{
+    background-color: #fceae8;
+}
+.margin-top{
+    margin-top: 110px;
+}
+
+.btn-color {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.btn-text-color{
+    color: #FF136F;
+}
+
+.watch-back-color{
+    background-color: orange;
+}
+.back-back-color{
+    background-color:orchid;
+}
+.shoes-back-color{
+    background-color:blue;
+}
+
+
+.watch, .shoes, .back {
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.margin-top-form{
+    margin-top: 100px;
+    margin-bottom: 80px;
+}
